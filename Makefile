@@ -1,2 +1,11 @@
+.PHONY: setup
+setup:
+	./setup.sh
+
+.PHONY: run
+run:
+	./run.sh
+
+.PHONY: clean
 clean:
-	rm -rf IBFT-Network/Node-{1,2,3,4}/data/*
+	./clean.sh

@@ -10,7 +10,7 @@
   },
   "nonce" : "0x0",
   "timestamp" : "0x58ee40ba",
-  "gasLimit" : "0x47b760",
+  "gasLimit" : "0x1fffffffffffff",
   "difficulty" : "0x1",
   "mixHash" : "0x63746963616c2062797a616e74696e65206661756c7420746f6c6572616e6365",
   "coinbase" : "0x0000000000000000000000000000000000000000",
@@ -29,7 +29,12 @@
       "privateKey" : "ae6ae8e5ccbfb04590405997ee2d52d2b330726137b875053c36d94e974d162f",
       "comment" : "private key and this comment are ignored.  In a real chain, the private key should NOT be stored",
       "balance" : "90000000000000000000000"
+    },
+    "a89f47c6b463f74d87572b058427da0a13ec5425" : {
+      "privateKey" : "e517af47112e4f501afb26e4f34eadc8b0ad8eadaf4962169fc04bc8ddbfe091",
+      "comment" : "private key and this comment are ignored.  In a real chain, the private key should NOT be stored",
+      "balance" : "0xad78ebc5ac6200000"
     }
   },
-  "extraData" : "0xf87ea00000000000000000000000000000000000000000000000000000000000000000f854940802bffa9875b5fa6a6a967f9962e0337a7eab629494c84682ce082c7367ed245cc59fdd7f0e63bf0a94bebc902c6fcac4cfc51cd8d261628d85c834d5b294b8f9af0a1dcc3073107fab9819d005cb8a520591808400000000c0"
+  "extraData" : "0xf87ea00000000000000000000000000000000000000000000000000000000000000000f8549478370b85e3bcd140055df856e3b0d8e591d62a81943e054066ab61b13b48598ed3cd79ba0f6853a6bc9401a3ddb6ffb76fe95600d26bcdcb791c85352508941147fd84b828682353e5fa37b8174e2eb173901b808400000000c0"
 }
